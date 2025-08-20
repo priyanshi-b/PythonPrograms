@@ -1,0 +1,7 @@
+A=int(input("enter a num"))
+B=int(input("enter a second num"))
+C=int(input("enter a third num"))
+D=int(input("enter a fourth num"))
+E=int(input("enter a fifth num"))
+avg=(A+B+C+D+E/5)
+print(avg)
